@@ -4,10 +4,7 @@
 
 2. Add Persisted Volumes:
 ```
-nextcloud-data:/var/www/html/data
-```
-```
-nextcloud-config:/var/www/html/config
+nextcloud-data:/var/www/html
 ```
 
 3. Add labels to proxy:
